@@ -6,7 +6,7 @@
     color: #ffffff;
     text-decoration: none;
     border-radius: 4px;
-    
+    z-index: 1;
    
     text-align: center;
     margin: auto;
