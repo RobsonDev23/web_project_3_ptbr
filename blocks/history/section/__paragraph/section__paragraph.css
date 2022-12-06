@@ -1,0 +1,28 @@
+.section__paragraph {
+        margin: 0 0 15px;
+        
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 163%;
+        color: #FFFFFF;
+}
+
+@media screen and (max-width: 1024px){
+    .section__paragraph {
+      font-size: 16px;  
+      width: 352px;
+      margin: 0 0 15px;
+      
+    
+    }
+
+}
+
+
+@media screen and (max-width: 544px){
+    .section__paragraph {
+        width: 288px;
+        margin-top: 30px;
+        font-size: 16px;
+    }
+}

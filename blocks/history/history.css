@@ -1,0 +1,53 @@
+.history {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 0.97fr  1.03fr;    
+    grid-template-areas:
+    "title quote"
+    "image text"
+    "NFT text"
+    ". text";
+    grid-gap: 0 3.12%;
+    margin: auto;
+    max-width: 76.87%;
+
+    
+}
+
+@media screen and (max-width: 1024px){
+    .history{
+        margin: auto;
+        grid-gap: 0 3.64%;
+        max-width: 95.44%;
+       
+       
+       
+       
+    }  
+}
+
+@media screen and (max-width: 544px){
+    .history {
+        display: grid;
+        grid-template-columns: auto;
+        grid-template-rows: 1fr;
+        grid-template-areas: 
+        "title"
+        "quote"
+        "image"
+        "text"
+        "NFT";
+        width: 100%;
+        margin: auto;
+       
+        
+
+    }
+}
+
+ 
+    
+    
+
+ 
+ 

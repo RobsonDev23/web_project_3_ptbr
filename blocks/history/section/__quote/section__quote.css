@@ -1,0 +1,25 @@
+.section__quote {
+    margin-bottom: 48px;
+    margin-top: 199px;
+    grid-area: quote;
+
+
+
+}
+
+@media screen and (max-width: 1024px){
+    .section__quote {
+    
+    margin-top:  0;
+    
+
+    }
+
+}
+
+@media screen and (max-width: 544px){
+    .section__quote {
+      width: 288px;
+      
+    }
+}

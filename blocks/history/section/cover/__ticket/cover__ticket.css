@@ -1,0 +1,33 @@
+.cover__ticket {
+    
+    
+    font-size: 18px;
+    padding: 13px 20px;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 4px;
+    
+   
+    text-align: center;
+    margin: auto;
+    background: #0278FE;
+    
+}
+
+.cover__ticket:hover{
+    cursor: pointer;
+    background-color: #0063D2;
+}
+
+@media screen and (max-width: 10124px) {
+    .cover__ticket {
+       margin-bottom: 246px;
+    }
+}
+    
+@media screen and (max-width: 544px) {
+    .cover__ticket {
+        max-width: 90%;
+        margin: 16px 64px auto;
+    }
+}

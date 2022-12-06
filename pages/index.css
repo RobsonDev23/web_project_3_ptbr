@@ -1,0 +1,59 @@
+          /* Fonts */
+@import url(../fonts/inter.css);
+
+          /* Pages */
+@import url(../vendor/normalize.css);
+@import url(../blocks/page/page.css);
+
+
+                /* Bloco header*/
+          
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/header/__subtitle/header__subtitle.css);
+@import url(../blocks/_place_header/logo_place_header.css);
+@import url(../blocks/header/__kalegin-michail/header__kalegin-michail.css);
+
+
+
+
+          /* Bloco description */
+
+@import url(../blocks/description/description.css);
+@import url(../blocks/description/joseph-beuys/joseph-beuys.css);
+@import url(../blocks/description/joseph-beuys/__brief/joseph-beuys__brief.css);
+@import url(../blocks/description/joseph-beuys/__paragraph-city/joseph-beuys__paragraph-city.css);
+@import url(../blocks/description/joseph-beuys/__paragraph/joseph-beuys__paragraph.css);
+@import url(../blocks/description/joseph-beuys/__author/joseph-beuys__author.css);
+
+        /* Bloco cards */
+
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/__image/cards__image.css);
+
+
+    /* Bloco History */
+@import url(../blocks/history/history.css);
+@import url(../blocks/history/section/__title/section__title.css);
+@import url(../blocks/history/section/__artist/section__artist.css);
+@import url(../blocks/history/section/__paragraph/section__paragraph.css);
+@import url(../blocks/history/section/__quote/section__quote.css);
+@import url(../blocks/history/section/__name/section__name.css);
+@import url(../blocks/history/section/__text/section__text.css);
+@import url(../blocks/history/section/__image/section__image.css);
+@import url(../blocks/history/section/__NFT/section__NFT.css);
+
+
+
+                /* Bloco Cover */
+@import url(../blocks/history/section/cover/cover.css);
+@import url(../blocks/history/section/cover/__filter/cover__filter.css);
+@import url(../blocks/history/section/cover/__text-visit/cover__text-visit.css);
+@import url(../blocks/history/section/cover/__ticket/cover__ticket.css);
+@import url(../blocks/history/section/cover/__visit-paragraph/cover__paragraph-visit.css);
+@import url(../blocks/history/section/cover/__visit-title/cover__title-visit.css);
+
+          /* Bloco Footer */
+@import url(../blocks/history/section/footer/footer.css);
+@import url(../blocks/history/section/footer/__copy/footer__copy.css);

@@ -1,0 +1,38 @@
+.joseph-beuys__author {
+    width: 100%;
+    max-width: 56.25%;
+    height: 34px;
+    text-align: right;
+    color: #ffffff;
+    margin-top: -25px;
+    margin-left: 148px;
+    margin-bottom: 32px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.41;
+
+}
+
+
+@media screen and (max-width:1024px) {
+   .joseph-beuys__author {
+    margin: auto;
+    max-width: 93.75%;
+    
+   } 
+  
+}
+
+@media screen and (max-width: 544px) {
+    .joseph-beuys__author {
+        margin: auto;
+        
+        line-height: 1.41;
+        
+        
+    }
+
+}

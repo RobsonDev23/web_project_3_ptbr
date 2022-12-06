@@ -1,0 +1,46 @@
+ 
+    .joseph-beuys__brief {
+        width: 100%;
+        max-width: 79.45%;
+        margin: 91px auto 0;
+        
+        
+        
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 54px;
+        line-height: 107%;
+        color:#ffffff;
+    }
+        
+
+    
+    
+
+@media screen and (max-width:1024px) {
+    .joseph-beuys__brief {
+        max-width: 93.75%;
+       
+    }
+  
+
+    
+    
+}
+
+@media screen and (max-width: 544px) {
+    .joseph-beuys__brief {
+        max-width: 90%;
+        font-size: 32px;
+        margin-bottom: 40px;
+        
+    }
+
+}
+
+
+
+
+
