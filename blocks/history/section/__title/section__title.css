@@ -1,11 +1,12 @@
     .section__title {
-    width: 460px;
+    width: auto;
     grid-area: title;
     font-weight: 900;
     font-size: 72px;
     line-height: 1.05;
     font-style: normal;
     color: #FFFFFF;
+    margin: 92px 0 48px;
    
 }
 
@@ -13,7 +14,7 @@
     .section__title {
     width: 340px;
     font-size: 42px;
-    margin: auto;
+    margin: 0;
    
     }
 }

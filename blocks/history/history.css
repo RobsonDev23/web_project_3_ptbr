@@ -1,7 +1,5 @@
     .history {
-    width: 100%;
     display: grid;
-    justify-content: center;
     grid-template-columns: 0.97fr 1.03fr;
     grid-template-areas:
     "title quote"
@@ -9,8 +7,9 @@
     "NFT text"
     ". text";
     grid-gap: 0 3.12%;
-    margin: 15px auto 16px;
+    margin: auto;
     max-width: 76.87%;
+    
 
     
 }
