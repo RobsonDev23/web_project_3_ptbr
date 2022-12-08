@@ -1,8 +1,10 @@
-          /* Fonts */
+@import url(../vendor/normalize.css);
+   
+
+        /* Fonts */
 @import url(../fonts/inter.css);
 
           /* Pages */
-@import url(../vendor/normalize.css);
 @import url(../blocks/page/page.css);
 
 
@@ -34,6 +36,7 @@
 
 
     /* Bloco History */
+@import url(../blocks/history/section/section.css);
 @import url(../blocks/history/history.css);
 @import url(../blocks/history/section/__title/section__title.css);
 @import url(../blocks/history/section/__artist/section__artist.css);

@@ -1,12 +1,11 @@
-.section__artist {
-    font-family: 'Inter';
+    .section__artist {
     font-weight: 400;
     font-size: 12px;
     line-height: 1.25;
-    
     letter-spacing: 0.12em;
     text-transform: uppercase;
-
     color: #AAAAAA;
+
+    
 
 }

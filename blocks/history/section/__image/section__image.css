@@ -1,10 +1,10 @@
-.section__image {
-    
+    .section__image {
     width: 100%;
     grid-area: image;
+    
 }
 
-@media screen and (max-width: 544px) {
+    @media screen and (max-width: 544px) {
     .section__image {
      margin: 30px 0;
     }

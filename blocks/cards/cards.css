@@ -1,4 +1,4 @@
-.cards {
+    .cards {
    
     max-width: 92.5%;
     margin: 92px auto 0;
@@ -9,25 +9,21 @@
     grid-gap: 16px;
     padding: 0;
     
-    
-    
-   
-
 }
 
-@media screen and (max-width: 1024px) {
+    @media screen and (max-width: 1024px) {
     .cards {
-        max-width: 93.75%;
-        grid-template-columns: repeat(2, auto);
+    max-width: 93.75%;
+    grid-template-columns: repeat(2, auto);
            
         
     }
 }
 
-@media screen and (max-width: 544px){
+    @media screen and (max-width: 544px){
     .cards {
-        grid-template-columns: repeat(1, auto);
-        grid-gap: 12px;
+    grid-template-columns: repeat(1, auto);
+    grid-gap: 12px;
         
     }
 }
