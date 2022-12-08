@@ -1,6 +1,5 @@
     .section__title {
     width: 460px;
-    margin: auto;
     grid-area: title;
     font-weight: 900;
     font-size: 72px;
