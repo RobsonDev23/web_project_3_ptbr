@@ -15,7 +15,7 @@
     
 }
 
-@media screen and (max-width: 1024px){
+    @media screen and (max-width: 1024px){
     .history{
     margin: auto;
     grid-gap: 0 3.64%;
@@ -24,11 +24,8 @@
     }  
 }
 
-@media screen and (max-width: 768px){
+    @media screen and (max-width: 544px){
     .history{
-    display: grid;
-    justify-content: center;
-    gap: 10px;
     grid-template-columns: auto;
     grid-template-rows: 1fr;
     grid-template-areas:
