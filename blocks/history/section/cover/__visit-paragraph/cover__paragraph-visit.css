@@ -6,15 +6,15 @@
     font-size: 18px;
     color: #ffffff;
     z-index: 1;
-}
+    }
 
-@media screen and (max-width: 10124px) {
+    @media screen and (max-width: 10124px) {
     .cover__paragraph-visit {
     margin: 0;
     }
 }
 
-@media screen and (max-width: 544px){
+    @media screen and (max-width: 544px){
     .cover__paragraph-visit {
     font-size: 14px;
     font-style: normal;

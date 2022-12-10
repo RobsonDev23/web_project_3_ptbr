@@ -22,12 +22,12 @@
     @media screen and (max-width: 10124px) {
     .cover__ticket {
     margin-bottom: 246px;
-        }
+    }
     }
         
     @media screen and (max-width: 544px) {
     .cover__ticket {
     max-width: 90%;
     margin: 16px 64px auto;
-        }
+    }
     }

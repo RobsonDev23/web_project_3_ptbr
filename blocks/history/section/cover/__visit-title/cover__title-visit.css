@@ -16,13 +16,13 @@
 
 
   @media screen and (max-width: 544px) {
-    .cover__title-visit {
-    margin: 46px 0 16px;
-    line-height: 1.09;
-    font-style: normal;
-    font-weight: 900;
-    font-size: 32px;
+  .cover__title-visit {
+  margin: 46px 0 16px;
+  line-height: 1.09;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 32px;
         
           
-      }
+  }
   }
